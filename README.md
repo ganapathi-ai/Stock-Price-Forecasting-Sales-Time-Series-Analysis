@@ -1,9 +1,6 @@
 # Stock-Price-Forecasting-Sales-Time-Series-Analysis
 #📈 NSE Stock & Sales Time-Series Forecasting Dashboard
 
-Tags:
-time-series forecasting machine-learning prophet streamlit stock-market nse data-analytics python finance
-
 Overview:
 
 This project is an end-to-end time-series forecasting application designed to predict product sales trends and NSE stock prices using Facebook Prophet. It combines data preprocessing, machine learning–based forecasting, and interactive visualization into a production-ready web dashboard.
